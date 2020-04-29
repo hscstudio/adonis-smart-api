@@ -11,13 +11,15 @@ This is the boilerplate for creating an API server in AdonisJs, it comes pre-con
 ## Setup
 
 1. Clone this repo 
-2. Run `npm install`
-3. Create database
-4. Setting connection db in `.env`
-5. Run `adonis key:generate`
-6. Run `adonis migration:refresh && adonis seed:sync`
-7. Run `adonis serve --dev`
-8. Enjoy
+2. cd adonis-smart-api
+3. Run `npm install`
+4. Create database
+5. Setting connection db in `.env`
+6. npm i -g @adonisjs/cli
+7. Run `adonis key:generate`
+8. Run `adonis migration:refresh && adonis seed:sync`
+9. Run `adonis serve --dev`
+10. Enjoy
 
 ## Swagger
 
